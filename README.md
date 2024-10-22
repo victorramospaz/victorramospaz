@@ -11,7 +11,7 @@ I'm a passionate game developer eager to create my own game and collaborate with
 - 💞️ I’m looking to collaborate on game development projects and form a team that shares the same vision.
 
 ## How to Reach Me
-- 📫 You can reach me at [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/seu-perfil).
+- 📫 You can reach me at [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-ramos-bb45a5334/) and [GitHub](https://github.com/victorramospaz).
 
 ## Pronouns
 - 😄 Pronouns: She/her
